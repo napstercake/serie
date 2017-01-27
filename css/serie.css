@@ -1,0 +1,28 @@
+.wrapper {
+	width: 480px;
+	padding: 1em 1em;
+	border: thin solid gray;
+	position: absolute;
+	left: 50%;
+	margin-left: -240px;
+}
+
+.msg {
+	margin-bottom: .5em;
+}
+.result {
+	border: thin solid #dadada;
+    margin-top: .5em;
+    padding: .5em;
+}
+.result span {
+	padding: 0px 5px;
+}
+.order {
+	width: 100%;
+}
+.error {
+	background-color: #ffcece;
+    padding: .5em;
+    color: #d62b2b;
+}
